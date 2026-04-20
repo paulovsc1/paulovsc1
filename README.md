@@ -36,17 +36,17 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-- 💻 Desenvolvedor Front-end
-- 🎯 Foco em React, Next.js e TypeScript
-- 📚 Estudando Node.js, NestJS e Prisma
-- 🧠 Buscando evoluir em arquitetura e boas práticas
-- ⚡ Gosto de transformar layouts em aplicações reais
+-  Desenvolvedor Front-end
+-  Foco em React, Next.js e TypeScript
+-  Estudando Node.js, NestJS e Prisma
+-  Buscando evoluir em arquitetura e boas práticas
+-  Gosto de transformar layouts em aplicações reais
 
 ---
 
-## 🧰 Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 <p align="left">
   <img 
@@ -144,7 +144,7 @@
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 ### 🃏 Yu-Gi-Oh! Store
 Aplicação com listagem de cartas, filtros, paginação, carrinho com persistência em localStorage e integração com API.
@@ -167,7 +167,7 @@ Jogo com movimentação de personagem e interações visuais, focado em lógica 
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - Node.js
 - NestJS
@@ -176,7 +176,7 @@ Jogo com movimentação de personagem e interações visuais, focado em lógica 
 
 ---
 
-## 🧠 Habilidades
+##  Habilidades
 
 - Interfaces responsivas com React
 - Consumo de APIs REST
