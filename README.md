@@ -25,7 +25,7 @@
       src="https://custom-icon-badges.demolab.com/badge/-Repositórios-181717?style=for-the-badge&logo=repo&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/paulo-victor-paulovsc" target="_blank">
+  <a href="https://www.linkedin.com/in/paulovsc" target="_blank">
   <img 
     alt="LinkedIn" 
     title="Veja meu perfil no LinkedIn" 
