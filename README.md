@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Paulo Victor</h1>
+<h1 align="center"> Paulo Victor</h1>
 
 <p align="center">
   <strong>Desenvolvedor Front-end</strong>
