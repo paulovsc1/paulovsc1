@@ -91,35 +91,19 @@
   />
   <img 
     align="left" 
+    alt="RxJS" 
+    title="RxJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" 
+  />
+  <img 
+    align="left" 
     alt="Tailwind CSS" 
     title="Tailwind CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="NestJS" 
-    title="NestJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="Prisma" 
-    title="Prisma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" 
   />
   <img 
     align="left" 
