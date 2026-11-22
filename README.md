@@ -6,7 +6,7 @@
 
 <p align="center">
   Desenvolvedor focado em criar interfaces modernas, responsivas e funcionais.
-  Tenho experiência com React, Next.js, TypeScript e consumo de APIs,
+  Tenho experiência com React, TypeScript e consumo de APIs,
   transformando layouts em aplicações reais com atenção à experiência do usuário.
 </p>
 
@@ -39,8 +39,8 @@
 ##  Sobre mim
 
 -  Desenvolvedor Front-end
--  Foco em React, Next.js e TypeScript
--  Estudando Node.js, NestJS e Prisma
+-  Foco em React e TypeScript
+-  Estudando Angular e RxJS
 -  Buscando evoluir em arquitetura e boas práticas
 -  Gosto de transformar layouts em aplicações reais
 
@@ -83,11 +83,11 @@
   />
   <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js" 
+    alt="Angular" 
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" 
   />
   <img 
     align="left" 
@@ -169,9 +169,8 @@ Jogo com movimentação de personagem e interações visuais, focado em lógica 
 
 ##  Atualmente estudando
 
-- Node.js
-- NestJS
-- Prisma
+- Angular
+- RxJS
 - Arquitetura de aplicações
 
 ---
